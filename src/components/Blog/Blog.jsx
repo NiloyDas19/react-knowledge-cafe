@@ -1,4 +1,6 @@
 import PropTypes from 'prop-types';
+import bookMarkLogo from '../../assets/bookmark.png'
+
 
 const Blog = ({ blog, handelReadTime, handleBookMark}) => {
     const { id, title, cover, author, author_img, posted_date, reading_time, hashtag} = blog;
@@ -22,7 +24,7 @@ const Blog = ({ blog, handelReadTime, handleBookMark}) => {
                         <p>{reading_time} mins read</p>
                     </div>
                     <div>
-                        <button onClick={() => handleBookMark(blog)}><img src="src\assets\bookmark.png" alt="" /></button>
+                        <button onClick={() => handleBookMark(blog)}><img src={bookMarkLogo} alt="" /></button>
                     </div>
                 </div>
             </div>
