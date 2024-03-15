@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.postimg.cc/9XD25DCH/1.jpg",
+      "title": "10 Tips for Better Blogging",
+      "author": "John Doe",
+      "author_img": "https://i.postimg.cc/0jnD0VQh/boy1.png",
+      "posted_date": "2024-03-03",
+      "reading_time": 7,
+      "hashtag": ["blogging", "tips", "writing"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.postimg.cc/htr67nc0/2.png",
+      "title": "How to Start a Successful Blog",
+      "author": "Jane Smith",
+      "author_img": "https://i.postimg.cc/QM77y8CQ/girl1.jpg",
+      "posted_date": "2024-03-02",
+      "reading_time": 12,
+      "hashtag": ["blogging", "beginners", "tips"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.postimg.cc/rmdPbtWh/3.png",
+      "title": "The Importance of Blogging for Business",
+      "author": "Alice Johnson",
+      "author_img": "https://i.postimg.cc/htzQXD9k/boy2.jpg",
+      "posted_date": "2024-03-01",
+      "reading_time": 9,
+      "hashtag": ["business", "marketing", "blogging"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.postimg.cc/Pfw7QYdJ/4.jpg",
+      "title": "5 Ways to Monetize Your Blog",
+      "author": "Robert Williams",
+      "author_img": "https://i.postimg.cc/qqDg7SgB/girl2.jpg",
+      "posted_date": "2024-02-29",
+      "reading_time": 10,
+      "hashtag": ["blogging", "monetization", "income"]
+    }
+  ]
+  
